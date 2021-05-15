@@ -8,7 +8,7 @@ import { PlantSave } from '../pages/PlantSave';
 
 import colors from '../styles/colors';
 import { MyPlants } from '../pages/MyPlants';
-import { TabRoutes } from './Tab.routes';
+import { TabRoutes } from './tab.routes';
 
 const Stack = createStackNavigator();
 
